@@ -1,0 +1,11 @@
+List of Dependencies
+
+- matplotlib.pyplot  
+- nltk  
+- nltk.sentiment  
+- numpy  
+- pandas  
+- scipy.special  
+- seaborn  
+- tqdm.notebook  
+- transformers  
